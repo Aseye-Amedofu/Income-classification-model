@@ -1,2 +1,2 @@
-# Income-classification-model
-A machine learning model to predict whether an individual earns above or below a certain amount.
+# Income-Prediction-Challenge-For-Azubian
+This repository contains a model for predicting if an individual earns above or below an income threshold
